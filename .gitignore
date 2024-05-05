@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+*.swp*
+*.w2v
+data/*
+output/*
+plots/*
