@@ -1,6 +1,6 @@
 # Computational text analysis (for design process analysis) 2024
 
-Jupyter Notebooks accompanying the introduction to computational text analysis given as part of the [Exploring Design Intelligence (ID5138)](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=66390) at the Industrial Design Engineering Master's Programme at TU Delft.
+Jupyter Notebooks accompanying the introduction to computational text analysis given as part of the [Exploring Design Intelligence (IDEM105)](https://www.studiegids.tudelft.nl/a101_displayCourse.do?course_id=70323) at the Industrial Design Engineering Master's Programme at TU Delft.
 
 #### Note:
 Notebooks currently have minimal explanation as this is a work in progress and meant to accompany the lecture presentations.
